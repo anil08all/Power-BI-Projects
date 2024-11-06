@@ -28,6 +28,6 @@ This Power BI dashboard provides a comprehensive analysis of sales data, includi
 - **File Location**: The CSV file is stored locally and imported into Power BI for analysis.
 - **Data Preparation**: Power Query was used to clean and transform the data, renaming columns, and applying necessary data type conversions.
 
-### Technical Details 
+### Technical Details
 
   
